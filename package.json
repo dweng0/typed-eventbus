@@ -1,5 +1,5 @@
 {
-  "name": "typed-eventbus",
+  "name": "@yatamazuki/typed-eventbus",
   "version": "1.0.0",
   "description": "A simple, strongly-typed event bus for TypeScript applications",
   "main": "dist/index.js",
@@ -31,7 +31,7 @@
     "pub-sub",
     "emitter"
   ],
-  "author": "",
+  "author": "yatamazuki",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.0",
@@ -40,6 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
-  }
+    "url": "git+https://github.com/dweng0/typed-eventbus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dweng0/typed-eventbus/issues"
+  },
+  "homepage": "https://github.com/dweng0/typed-eventbus#readme"
 }
