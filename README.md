@@ -5,7 +5,7 @@ A simple, strongly-typed event bus for TypeScript applications.
 ## Installation
 
 ```bash
-npm install typed-eventbus
+npm install @yatamazuki/typed-eventbus
 ```
 
 ## Usage
